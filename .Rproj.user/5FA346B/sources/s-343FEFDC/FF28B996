@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536809090533.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2668991496",
+    "id" : "FF28B996",
+    "lastKnownWriteTime" : 1539728364,
+    "last_content_update" : 1539728364333,
+    "path" : "~/ARAASTAT/PracticalR/_output.yml",
+    "project_path" : "_output.yml",
+    "properties" : {
+        "cursorPosition" : "5,36",
+        "marks" : "<:5,25\n>:5,25",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

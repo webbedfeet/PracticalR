@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539728087116.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "282666801",
+    "id" : "A42C160",
+    "lastKnownWriteTime" : 1539728291,
+    "last_content_update" : 1539728291641,
+    "path" : "~/ARAASTAT/PracticalR/02-importoutput.Rmd",
+    "project_path" : "02-importoutput.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,130",
+        "marks" : "<:0,0\n>:0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,8 @@
+# Data import in R
+
+The most basic task that a software has during data analyses is to import data. This chapter shows you how to import data into R with a variety of approaches. We will 
+be partial to tidyverse-compliant methods, but will introduce other methods that are useful for either specialization or speed. 
+
+## Reading data into R with `readr`
+
+The basic workhorse in the tidyverse for importing data is the [`readr`](https://cran.r-project.org?package=readr){target="_blank"} package
